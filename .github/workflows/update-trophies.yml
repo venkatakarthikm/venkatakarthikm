@@ -1,0 +1,35 @@
+name: Update GitHub Trophies
+
+on:
+  schedule:
+    # Runs once a day at midnight UTC. Edit the cron expression to change frequency.
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]      # also regenerate whenever you push to main (optional)
+
+permissions:
+  contents: write          # needed so the workflow can commit the updated SVG back
+
+jobs:
+  update-trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate trophies.svg
+        env:
+          GH_TOKEN: ${{ secrets.TROPHY_PAT }}
+        run: node generate-trophies.js venkatakarthikm trophies.svg
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub trophies"
+          file_pattern: trophies.svg
