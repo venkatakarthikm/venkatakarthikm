@@ -28,8 +28,13 @@ jobs:
           GH_TOKEN: ${{ secrets.TROPHY_PAT }}
         run: node generate-trophies.js venkatakarthikm trophies.svg
 
+      - name: Generate langs.svg
+        env:
+          GH_TOKEN: ${{ secrets.TROPHY_PAT }}
+        run: node generate-langs.js venkatakarthikm langs.svg
+
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update GitHub trophies"
-          file_pattern: trophies.svg
+          commit_message: "chore: update GitHub trophies and languages"
+          file_pattern: "trophies.svg langs.svg"
