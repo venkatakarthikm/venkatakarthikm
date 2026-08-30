@@ -1,0 +1,61 @@
+<svg width="836" height="272" viewBox="0 0 836 272" xmlns="http://www.w3.org/2000/svg">
+  <rect width="836" height="272" fill="transparent"/>
+  <title>venkatakarthikm's GitHub Trophies</title>
+  
+    <g transform="translate(0,0)">
+      <rect width="200" height="130" rx="10" fill="#161B22" stroke="#5E81AC" stroke-width="2"/>
+      <text x="16" y="30" font-size="22" font-family="sans-serif">👥</text>
+      <text x="50" y="30" font-size="14" fill="#C9D1D9" font-family="sans-serif" font-weight="bold">Followers</text>
+      <text x="16" y="70" font-size="30" fill="#5E81AC" font-family="sans-serif" font-weight="bold">1</text>
+      <text x="16" y="105" font-size="16" fill="#5E81AC" font-family="monospace" font-weight="bold">Rank B</text>
+    </g>
+    <g transform="translate(212,0)">
+      <rect width="200" height="130" rx="10" fill="#161B22" stroke="#D08770" stroke-width="2"/>
+      <text x="16" y="30" font-size="22" font-family="sans-serif">📁</text>
+      <text x="50" y="30" font-size="14" fill="#C9D1D9" font-family="sans-serif" font-weight="bold">Repositories</text>
+      <text x="16" y="70" font-size="30" fill="#D08770" font-family="sans-serif" font-weight="bold">55</text>
+      <text x="16" y="105" font-size="16" fill="#D08770" font-family="monospace" font-weight="bold">Rank SS</text>
+    </g>
+    <g transform="translate(424,0)">
+      <rect width="200" height="130" rx="10" fill="#161B22" stroke="#4C566A" stroke-width="2"/>
+      <text x="16" y="30" font-size="22" font-family="sans-serif">⭐</text>
+      <text x="50" y="30" font-size="14" fill="#C9D1D9" font-family="sans-serif" font-weight="bold">Stars</text>
+      <text x="16" y="70" font-size="30" fill="#4C566A" font-family="sans-serif" font-weight="bold">0</text>
+      <text x="16" y="105" font-size="16" fill="#4C566A" font-family="monospace" font-weight="bold">Rank C</text>
+    </g>
+    <g transform="translate(636,0)">
+      <rect width="200" height="130" rx="10" fill="#161B22" stroke="#A3BE8C" stroke-width="2"/>
+      <text x="16" y="30" font-size="22" font-family="sans-serif">💻</text>
+      <text x="50" y="30" font-size="14" fill="#C9D1D9" font-family="sans-serif" font-weight="bold">Commits</text>
+      <text x="16" y="70" font-size="30" fill="#A3BE8C" font-family="sans-serif" font-weight="bold">588</text>
+      <text x="16" y="105" font-size="16" fill="#A3BE8C" font-family="monospace" font-weight="bold">Rank AAA</text>
+    </g>
+    <g transform="translate(0,142)">
+      <rect width="200" height="130" rx="10" fill="#161B22" stroke="#5E81AC" stroke-width="2"/>
+      <text x="16" y="30" font-size="22" font-family="sans-serif">🔀</text>
+      <text x="50" y="30" font-size="14" fill="#C9D1D9" font-family="sans-serif" font-weight="bold">Pull Requests</text>
+      <text x="16" y="70" font-size="30" fill="#5E81AC" font-family="sans-serif" font-weight="bold">2</text>
+      <text x="16" y="105" font-size="16" fill="#5E81AC" font-family="monospace" font-weight="bold">Rank B</text>
+    </g>
+    <g transform="translate(212,142)">
+      <rect width="200" height="130" rx="10" fill="#161B22" stroke="#4C566A" stroke-width="2"/>
+      <text x="16" y="30" font-size="22" font-family="sans-serif">❓</text>
+      <text x="50" y="30" font-size="14" fill="#C9D1D9" font-family="sans-serif" font-weight="bold">Issues</text>
+      <text x="16" y="70" font-size="30" fill="#4C566A" font-family="sans-serif" font-weight="bold">0</text>
+      <text x="16" y="105" font-size="16" fill="#4C566A" font-family="monospace" font-weight="bold">Rank C</text>
+    </g>
+    <g transform="translate(424,142)">
+      <rect width="200" height="130" rx="10" fill="#161B22" stroke="#4C566A" stroke-width="2"/>
+      <text x="16" y="30" font-size="22" font-family="sans-serif">👁</text>
+      <text x="50" y="30" font-size="14" fill="#C9D1D9" font-family="sans-serif" font-weight="bold">Reviews</text>
+      <text x="16" y="70" font-size="30" fill="#4C566A" font-family="sans-serif" font-weight="bold">0</text>
+      <text x="16" y="105" font-size="16" fill="#4C566A" font-family="monospace" font-weight="bold">Rank C</text>
+    </g>
+    <g transform="translate(636,142)">
+      <rect width="200" height="130" rx="10" fill="#161B22" stroke="#EBCB8B" stroke-width="2"/>
+      <text x="16" y="30" font-size="22" font-family="sans-serif">📅</text>
+      <text x="50" y="30" font-size="14" fill="#C9D1D9" font-family="sans-serif" font-weight="bold">Experience</text>
+      <text x="16" y="70" font-size="30" fill="#EBCB8B" font-family="sans-serif" font-weight="bold">5</text>
+      <text x="16" y="105" font-size="16" fill="#EBCB8B" font-family="monospace" font-weight="bold">Rank S</text>
+    </g>
+</svg>
