@@ -25,7 +25,7 @@
 
 <h3 align="left">About Me</h3>
 
-- 2+ years of self-taught, hands-on full-stack development
+- 2+ years of hands-on full-stack development
 - Integrated 50+ third-party APIs and services across personal and client projects
 - Comfortable owning a project end-to-end frontend, backend, database, and the infrastructure it runs on
 - Always learning and experimenting with new tools recently DNS/API infrastructure via Cloudflare and CI/CD with GitHub Actions
