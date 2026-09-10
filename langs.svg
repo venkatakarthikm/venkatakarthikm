@@ -4,14 +4,14 @@
   <text x="20" y="16" font-size="12" fill="#C9D1D9" font-family="sans-serif" font-weight="bold">Most Used Languages</text>
   <rect x="20" y="20" width="300" height="12" rx="6" fill="#21262d" />
   <clipPath id="barclip"><rect x="20" y="20" width="300" height="12" rx="6" /></clipPath>
-  <g clip-path="url(#barclip)"><rect x="20" y="20" width="263.1922792539051" height="12" fill="#f1e05a" /><rect x="283.1922792539051" y="20" width="26.43037951137697" height="12" fill="#563d7c" /><rect x="309.62265876528204" y="20" width="4.832410764525615" height="12" fill="#e34c26" /><rect x="314.45506952980764" y="20" width="3.613565869242729" height="12" fill="#b07219" /><rect x="318.0686353990504" y="20" width="1.9313646009495922" height="12" fill="#3178c6" /></g>
+  <g clip-path="url(#barclip)"><rect x="20" y="20" width="263.00740412319936" height="12" fill="#f1e05a" /><rect x="283.00740412319936" y="20" width="26.628835892504295" height="12" fill="#563d7c" /><rect x="309.63624001570366" y="20" width="4.826086391138583" height="12" fill="#e34c26" /><rect x="314.46232640684224" y="20" width="3.608836647963882" height="12" fill="#b07219" /><rect x="318.0711630548061" y="20" width="1.9288369451938836" height="12" fill="#3178c6" /></g>
   
     <circle cx="26" cy="45" r="5" fill="#f1e05a" />
     <text x="40" y="50" font-size="13" fill="#C9D1D9" font-family="sans-serif">JavaScript</text>
-    <text x="280" y="50" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">87.73%</text>
+    <text x="280" y="50" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">87.67%</text>
     <circle cx="26" cy="69" r="5" fill="#563d7c" />
     <text x="40" y="74" font-size="13" fill="#C9D1D9" font-family="sans-serif">CSS</text>
-    <text x="280" y="74" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">8.81%</text>
+    <text x="280" y="74" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">8.88%</text>
     <circle cx="26" cy="93" r="5" fill="#e34c26" />
     <text x="40" y="98" font-size="13" fill="#C9D1D9" font-family="sans-serif">HTML</text>
     <text x="280" y="98" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">1.61%</text>
