@@ -4,26 +4,26 @@
   <text x="20" y="16" font-size="12" fill="#C9D1D9" font-family="sans-serif" font-weight="bold">Most Used Languages</text>
   <rect x="20" y="20" width="300" height="12" rx="6" fill="#21262d" />
   <clipPath id="barclip"><rect x="20" y="20" width="300" height="12" rx="6" /></clipPath>
-  <g clip-path="url(#barclip)"><rect x="20" y="20" width="208.42108096268308" height="12" fill="#f1e05a" /><rect x="228.42108096268308" y="20" width="46.98170839114673" height="12" fill="#3178c6" /><rect x="275.4027893538298" y="20" width="19.85171177625301" height="12" fill="#563d7c" /><rect x="295.2545011300828" y="20" width="18.46731928248001" height="12" fill="#A97BFF" /><rect x="313.7218204125628" y="20" width="3.620335057687944" height="12" fill="#e34c26" /><rect x="317.34215547025076" y="20" width="2.6275164282686787" height="12" fill="#b07219" /><rect x="319.96967189851944" y="20" width="0.03032810148054089" height="12" fill="#384d54" /></g>
+  <g clip-path="url(#barclip)"><rect x="20" y="20" width="204.4543555580647" height="12" fill="#f1e05a" /><rect x="224.4543555580647" y="20" width="50.023672905878065" height="12" fill="#3178c6" /><rect x="274.47802846394274" y="20" width="19.985578132137157" height="12" fill="#A97BFF" /><rect x="294.4636065960799" y="20" width="19.4008124489974" height="12" fill="#563d7c" /><rect x="313.8644190450773" y="20" width="3.538105038415545" height="12" fill="#e34c26" /><rect x="317.40252408349284" y="20" width="2.5678366684972" height="12" fill="#b07219" /><rect x="319.97036075199003" y="20" width="0.029639248009936205" height="12" fill="#384d54" /></g>
   
     <circle cx="26" cy="45" r="5" fill="#f1e05a" />
     <text x="40" y="50" font-size="13" fill="#C9D1D9" font-family="sans-serif">JavaScript</text>
-    <text x="280" y="50" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">69.47%</text>
+    <text x="280" y="50" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">68.15%</text>
     <circle cx="26" cy="69" r="5" fill="#3178c6" />
     <text x="40" y="74" font-size="13" fill="#C9D1D9" font-family="sans-serif">TypeScript</text>
-    <text x="280" y="74" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">15.66%</text>
-    <circle cx="26" cy="93" r="5" fill="#563d7c" />
-    <text x="40" y="98" font-size="13" fill="#C9D1D9" font-family="sans-serif">CSS</text>
-    <text x="280" y="98" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">6.62%</text>
-    <circle cx="26" cy="117" r="5" fill="#A97BFF" />
-    <text x="40" y="122" font-size="13" fill="#C9D1D9" font-family="sans-serif">Kotlin</text>
-    <text x="280" y="122" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">6.16%</text>
+    <text x="280" y="74" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">16.67%</text>
+    <circle cx="26" cy="93" r="5" fill="#A97BFF" />
+    <text x="40" y="98" font-size="13" fill="#C9D1D9" font-family="sans-serif">Kotlin</text>
+    <text x="280" y="98" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">6.66%</text>
+    <circle cx="26" cy="117" r="5" fill="#563d7c" />
+    <text x="40" y="122" font-size="13" fill="#C9D1D9" font-family="sans-serif">CSS</text>
+    <text x="280" y="122" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">6.47%</text>
     <circle cx="26" cy="141" r="5" fill="#e34c26" />
     <text x="40" y="146" font-size="13" fill="#C9D1D9" font-family="sans-serif">HTML</text>
-    <text x="280" y="146" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">1.21%</text>
+    <text x="280" y="146" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">1.18%</text>
     <circle cx="26" cy="165" r="5" fill="#b07219" />
     <text x="40" y="170" font-size="13" fill="#C9D1D9" font-family="sans-serif">Java</text>
-    <text x="280" y="170" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">0.88%</text>
+    <text x="280" y="170" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">0.86%</text>
     <circle cx="26" cy="189" r="5" fill="#384d54" />
     <text x="40" y="194" font-size="13" fill="#C9D1D9" font-family="sans-serif">Dockerfile</text>
     <text x="280" y="194" font-size="13" fill="#8b949e" font-family="sans-serif" text-anchor="end">0.01%</text>
